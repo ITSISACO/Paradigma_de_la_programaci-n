@@ -1,0 +1,93 @@
+{
+  "bancos": [
+    {
+      "bank": "BANNER BANK",
+      "city": "SPOKANE",
+      "country": "US",
+      "id": "153",
+      "password": "jL0\"V~bM?XKiC1",
+      "routing": "123206817"
+    },
+    {
+      "bank": "BMO HARRIS BANK",
+      "city": "NAPERVILLE",
+      "country": "US",
+      "id": "88",
+      "password": "jU7,HM}7ZW3cj99%",
+      "routing": "075904115"
+    },
+    {
+      "bank": "PNC BANK INC. - BALTIMORE",
+      "city": "PITTSBURGH",
+      "country": "US",
+      "id": "230",
+      "password": "yE1,\"'DXbfd,I<",
+      "routing": "055001122"
+    },
+    {
+      "bank": "SECURITY STATE BANK",
+      "city": "SUTHERLAND",
+      "country": "US",
+      "id": "228",
+      "password": "gN1*L*{ICS",
+      "routing": "073921161"
+    },
+    {
+      "bank": "FIRST NATIONAL BANK OF PENNSYLVANIA",
+      "city": "HERMITAGE",
+      "country": "US",
+      "id": "236",
+      "password": "pL3*E$?cDk#M",
+      "routing": "031307866"
+    },
+    {
+      "bank": "PNC BANK",
+      "city": "CLEVELAND",
+      "country": "US",
+      "id": "145",
+      "password": "kJ5_fq|(Y&4/Cm",
+      "routing": "271971816"
+    },
+    {
+      "bank": "FIRST NATIONAL BANK OF PENNSYLVANIA",
+      "city": "HERMITAGE",
+      "country": "US",
+      "id": "162",
+      "password": "vF4?hj\\QpFf",
+      "routing": "231375290"
+    },
+    {
+      "bank": " BANK Y YA",
+      "city": "EL PEDAZO",
+      "country": "US",
+      "id": "60",
+      "password": "sincontraseña",
+      "routing": "164"
+    },
+    {
+      "bank": "HERITAGE BANK",
+      "city": "AURORA",
+      "country": "US",
+      "id": "135",
+      "password": "qT5~!bFzDH(y!ao",
+      "routing": "104908383"
+    },
+    {
+      "bank": "BANK OF THE WEST",
+      "city": "LOS ANGELES",
+      "country": "US",
+      "id": "88",
+      "password": "bK9(LZk*t~}($8o",
+      "routing": "091200961"
+    },
+    {
+      "bank": "BANK OF MONEY",
+      "city": "WASHINTON",
+      "country": "US",
+      "id": "767",
+      "password": "bK9FJFAIO8o",
+      "routing": "091"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
